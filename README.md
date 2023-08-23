@@ -2,7 +2,7 @@
 
 Aplicação web com cadastro de funcionários e criação dinâmica de cards de funcionários utilizando react js.
 
-### Deseja testar? Clique aqui: https://organo-82vb5c3dc-gideonalves.vercel.app
+### Deseja testar? Clique aqui: https://organo-git-main-gideonalves.vercel.app/
 
 <img alt="organo" src="./public/imagens/mobile.gif">
 
@@ -49,8 +49,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
   
 ### Biblioteca
 React icon
-[react icon]
-(https://react-icons.github.io/react-icons/)
+--
+[react icon](https://react-icons.github.io/react-icons/)
 
 ### 🏁 Features
 
