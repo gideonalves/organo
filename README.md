@@ -4,9 +4,41 @@ Aplicação web com cadastro de funcionários e criação dinâmica de cards de 
 
 ### Deseja testar? Clique aqui: https://organo-82vb5c3dc-gideonalves.vercel.app
 
-![image](https://user-images.githubusercontent.com/100159869/205296753-9b05003d-66ac-44a2-9076-a63a7ab1384e.png)
+<img alt="organo" src="./public/imagens/mobile.gif">
 
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+---
+  <a href="https://www.linkedin.com/in/gideon-alves/">
+    <img alt="Made by Gideon Alves" src="https://img.shields.io/badge/made%20by-GideonAlves-%2304D361">
+  </a>
+
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
+
+---
+
+
+# Introdução
+
+Faala dev!
+
+Seja muito bem-vindo ou bem-vinda ao desafio da trilha de **ReactJS** da **Alura**. 
+
+# Sobre o desafio
+
+Nesse desafio, eu aprendi a desenvolver um formulário com preenchimento nos campos nomes dos times e paleta de cor
+com as seguintes funcionalidades 
+- Adicionar um card
+- Marcar o card como favorito
+- Remover o card da lista
+
+Apesar de serem poucas funcionalidades, você vai precisar relembrar conceitos como:
+
+- Estados
+- Imutabilidade do estado
+- Listas e chaves no ReactJS
+- Propriedades
+- Componentização
+  
+
 
 ### 🛠 Tecnologias
 As seguintes ferramentas foram usadas na construção do projeto:
@@ -14,12 +46,19 @@ As seguintes ferramentas foram usadas na construção do projeto:
  - React js
  - Animate css
  - Sweetalert 2
+  
+### Biblioteca
+React icon
+[react icon]
+(https://react-icons.github.io/react-icons/)
 
 ### 🏁 Features
 
 - [x] Cadastro de funcionário
 - [x] Criação de card do funcionário
 - [x] Adição do card no topo da página
+- [x] Criação de input de cor
+- [x] Criação de input com nome do time
 
 
 #### 🧭 Rodando a aplicação web
